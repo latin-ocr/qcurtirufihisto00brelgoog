@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./qcurtirufihisto00brelgoog_0005.png"; bbox 0 0 2517 3975; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 804 1337 1698 1623">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 804 1337 1698 1623">
+     <span class='ocr_line' id='line_1_1' title="bbox 804 1337 1698 1438; baseline -0.003 -19"><span class='ocrx_word' id='word_1_1' title='bbox 804 1337 1698 1438; x_wconf 72' lang='lat' dir='ltr'>Q.cussTlnnF1</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 915 1552 1591 1623; baseline 0 -3"><span class='ocrx_word' id='word_1_2' title='bbox 915 1552 1591 1623; x_wconf 85' lang='lat' dir='ltr'><strong>HISTORIARUM</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 381 1738 2098 1883">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 381 1738 2098 1883">
+     <span class='ocr_line' id='line_1_3' title="bbox 381 1738 2098 1883; baseline -0.002 0"><span class='ocrx_word' id='word_1_3' title='bbox 381 1738 1429 1883; x_wconf 81' lang='lat' dir='ltr'><strong>ALEXANDRI</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1547 1751 2098 1882; x_wconf 74' lang='lat' dir='ltr'><strong>MAGNI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1011 2008 1496 2073">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1011 2008 1496 2073">
+     <span class='ocr_line' id='line_1_4' title="bbox 1011 2008 1496 2073; baseline -0.002 -2"><span class='ocrx_word' id='word_1_5' title='bbox 1011 2008 1496 2073; x_wconf 86' lang='lat' dir='ltr'>MACEDONIS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 506 2160 1784 2273">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 506 2160 1784 2273">
+     <span class='ocr_line' id='line_1_5' title="bbox 506 2160 1784 2273; baseline 0.004 -14"><span class='ocrx_word' id='word_1_6' title='bbox 506 2160 510 2165; x_wconf 77' lang='grc'><strong>’</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 638 2254 641 2255; x_wconf 20' lang='lat' dir='ltr'><em>f</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 717 2166 964 2261; x_wconf 73' lang='lat' dir='ltr'><strong>Llssm</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1024 2196 1179 2273; x_wconf 86' lang='lat' dir='ltr'><strong>QUI</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1240 2196 1784 2264; x_wconf 83' lang='lat' dir='ltr'>SUPERSUNT</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
